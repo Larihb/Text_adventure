@@ -1,6 +1,7 @@
 # The Cave Escape - A Text Adventure GUI Game
 
 ![Screenshot of the Game](images/screenshot.png)
+
 A classic text-based adventure game brought to life with a graphical user interface built in Python using PySimpleGUI. The player wakes up in a dark cave and must explore, solve a riddle, and find the exit.
 
 ---
